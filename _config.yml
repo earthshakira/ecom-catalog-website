@@ -31,7 +31,6 @@ collections:
   products:
     _hide_content: true
     output: true
-    _icon: shopping_cart
 
 permalink: pretty
 
