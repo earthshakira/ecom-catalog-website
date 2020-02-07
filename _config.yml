@@ -30,7 +30,7 @@ collections:
     _icon: account_circle
   products:
     _hide_content: true
-    output: true
+    output: false
 
 permalink: pretty
 
