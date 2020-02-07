@@ -1,20 +1,19 @@
 # ----
 # Site
 
-title: Fur
+title: Hariya-Store
 url: "http://turquoise-rook.cloudvent.net/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Fur t-shirt store
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
+  name: hariya
+  email: hariya@example.com
+  twitter: hariya # twitter username without the @ symbol
   phone: "+1 23456789"
 social:
   name: Fur Template
